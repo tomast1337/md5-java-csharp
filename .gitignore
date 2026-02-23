@@ -1,0 +1,23 @@
+# Build / run outputs
+hashes.txt
+hashes_csharp.txt
+hashes_java.txt
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.dll
+*.pdb
+*.exe
+
+# Java
+*.class
+
+# IDE / OS
+.idea/
+*.iml
+.vscode/
+.DS_Store
